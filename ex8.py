@@ -1,5 +1,6 @@
 #Jan 13, 2016
 #Learning Python the Hard Way Exercise 8
+
 formatter = "%r %r %r %r"
 
 print formatter % (1, 2, 3, 4)
