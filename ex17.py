@@ -19,3 +19,6 @@ print "Alright, all done."
 
 out_file.close()
 in_file.close()
+
+# entire file can be replaced with
+# open(to_file, 'w').write(open(from_file).read())
