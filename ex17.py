@@ -1,3 +1,6 @@
+#Jan 16, 2016
+#Learning Python the Hard Way Exercise 17
+
 from sys import argv
 from os.path import exists
 
